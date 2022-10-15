@@ -1,0 +1,5 @@
+com\gui\AntiqueShop.class
+com\dto\Item.class
+com\dto\Statue.class
+com\dto\Vase.class
+com\dto\Painting.class
